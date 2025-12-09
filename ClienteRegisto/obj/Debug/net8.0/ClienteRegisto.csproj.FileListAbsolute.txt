@@ -1,0 +1,11 @@
+/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/bin/Debug/net8.0/ClienteRegisto
+/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/bin/Debug/net8.0/ClienteRegisto.dll
+/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/bin/Debug/net8.0/ClienteRegisto.pdb
+/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/obj/Debug/net8.0/ClienteRegisto.csproj.AssemblyReference.cache
+/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/obj/Debug/net8.0/ClienteRegisto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/obj/Debug/net8.0/ClienteRegisto.AssemblyInfoInputs.cache
+/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/obj/Debug/net8.0/ClienteRegisto.AssemblyInfo.cs
+/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/obj/Debug/net8.0/ClienteRegisto.csproj.CoreCompileInputs.cache
+/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/obj/Debug/net8.0/ClienteRegisto.dll
+/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/obj/Debug/net8.0/refint/ClienteRegisto.dll
+/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/obj/Debug/net8.0/ClienteRegisto.pdb
