@@ -27,3 +27,4 @@ try {
     Console.WriteLine($"Erro: {ex.Message}");
 }
 Console.ResetColor();
+
