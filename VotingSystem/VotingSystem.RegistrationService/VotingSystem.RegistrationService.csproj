@@ -1,0 +1,32 @@
+
+
+
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>2a4813ea-e9cd-4acc-ab44-bd6859dd30de</UserSecretsId>
+		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+	</PropertyGroup>
+
+	<!-- Referências a pacotes necessários para gRPC -->
+	<ItemGroup>
+		<PackageReference Include="Grpc.AspNetCore" Version="2.64.0" />
+		<PackageReference Include="Google.Protobuf" Version="3.27.0" />
+		<PackageReference Include="Grpc.Tools" Version="2.64.0" PrivateAssets="All" />
+		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.23.0" />
+<!-- <PackageReference Include="Grpc.AspNetCore.Server.Reflection" Version="2.64.0" /> -->
+	</ItemGroup>
+
+	<!-- Geração de código C# a partir dos ficheiros .proto -->
+	<ItemGroup>
+		<Protobuf Include="Protos\voter.proto" GrpcServices="Server" />
+		<!-- Se ainda tiveres o greet.proto do template, podes manter ou apagar -->
+		<!-- <Protobuf Include="Protos\greet.proto" GrpcServices="Server" /> -->
+	</ItemGroup>
+
+
+
+</Project>
