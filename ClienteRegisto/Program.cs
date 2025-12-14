@@ -24,6 +24,7 @@ try {
         Console.WriteLine("Cidadão não elegível.");
     }
 } catch (Exception ex) {
+    Console.WriteLine("Ocorreu um erro a obter a credencial!")
     Console.WriteLine($"Erro: {ex.Message}");
 }
 Console.ResetColor();
