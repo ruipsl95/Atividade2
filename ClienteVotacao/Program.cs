@@ -48,6 +48,7 @@ while (true)
     }
     catch (Exception ex)
     {
+        
         Console.WriteLine($"Erro de comunicação: {ex.Message}");
     }
 }
