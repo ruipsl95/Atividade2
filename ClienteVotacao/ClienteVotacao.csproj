@@ -15,5 +15,8 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup>
+    <Protobuf Include="protos/voting.proto" GrpcServices="Client" />
+  </ItemGroup>
 
 </Project>
