@@ -1,10 +1,14 @@
 ﻿using Grpc.Net.Client;
 using VotingSystem.Voting;
 
-AppContext.SetSwitch("System.Net.Http.SocketsHttpHandler.Http2UnencryptedSupport", true);
+var httpHandler = new HttpClientHandler();
+httpHandler.ServerCertificateCustomValidationCallback = HttpClientHandler.DangerousAcceptAnyServerCertificateValidator;
 
-// Endereço do Mockup de Votação 
-var channel = GrpcChannel.ForAddress("http://localhost:5159");
+var channel = GrpcChannel.ForAddress("https://ken01.utad.pt:9091", new GrpcChannelOptions
+{
+    HttpHandler = httpHandler
+});
+
 var client = new VotingService.VotingServiceClient(channel);
 
 Console.WriteLine("=== ENTIDADE DE VOTAÇÃO (CLIENTE) ===");
