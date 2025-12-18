@@ -1,2 +1,2 @@
-obj/Debug/net8.0/protos/Voter.cs \
-obj/Debug/net8.0/protos/VoterGrpc.cs: protos/voter.proto
+obj/Debug/net8.0/Voter.cs \
+obj/Debug/net8.0/VoterGrpc.cs: protos/voter.proto

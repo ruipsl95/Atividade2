@@ -4,7 +4,6 @@ package voting;
 service VoterRegistrationService {
 rpc IssueVotingCredential (VoterRequest) returns (VoterResponse);
 }
-
 message VoterRequest {
 string citizen_card_number = 1;
 }

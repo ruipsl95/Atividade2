@@ -305,11 +305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/ClienteRegisto.csproj",
+      "projectUniqueName": "/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/ClienteRegisto.csproj",
       "projectName": "ClienteRegisto",
-      "projectPath": "/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/ClienteRegisto.csproj",
+      "projectPath": "/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/ClienteRegisto.csproj",
       "packagesPath": "/Users/ruipedro/.nuget/packages/",
-      "outputPath": "/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/obj/",
+      "outputPath": "/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ruipedro/.nuget/NuGet/NuGet.Config"

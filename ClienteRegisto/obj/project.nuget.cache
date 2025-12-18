@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IpuaqodR180=",
+  "dgSpecHash": "GJQT+Q35i/M=",
   "success": true,
-  "projectFilePath": "/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/ClienteRegisto.csproj",
+  "projectFilePath": "/Users/ruipedro/Documents/Projetos/Integração de Sistemas/Atividade2/ClienteRegisto/ClienteRegisto.csproj",
   "expectedPackageFiles": [
     "/Users/ruipedro/.nuget/packages/google.protobuf/3.33.2/google.protobuf.3.33.2.nupkg.sha512",
     "/Users/ruipedro/.nuget/packages/grpc.core.api/2.71.0/grpc.core.api.2.71.0.nupkg.sha512",
